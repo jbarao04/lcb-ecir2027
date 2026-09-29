@@ -1,0 +1,13 @@
+# GPU scoring (scoring/score_passages.py only)
+vllm==0.6.6.post1
+transformers==4.48.0
+torch
+
+# Core
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+requests
+tqdm
